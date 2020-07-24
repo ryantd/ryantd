@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on AI Computing
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%F0%9F%91%8B-blue.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%F0%9F%91%8B-blue.svg)](www.linkedin.com/in/xiaoyuzhai)
 
 <!--
 **xyuzh/xyuzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
