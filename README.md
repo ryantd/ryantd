@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on AI Computing
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyuzh&layout=compact)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%F0%9F%91%8B-blue.svg)](https://www.linkedin.com/in/xiaoyuzhai)
 
 <!--
