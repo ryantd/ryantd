@@ -6,6 +6,6 @@
 - 📝 Building distributed, all-in-one and heterogeneous systems for ML/DL
 - 🔭 Working on algorithms, MLSys, ML Pipeline, and real-time ML
 
-![Xiaoyu Zhai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryantd&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryantd&show_icons=true&theme=dracula)
 
 \*Made on Earth by humans\*
