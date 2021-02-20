@@ -5,4 +5,6 @@
 
 - 🔭 Working on algorithms, heterogeneous computing, MLSys, ML Pipeline, and real-time ML
 
-\*Made on Earth by humans\*
+> Made on Earth by humans
+
+> To Infinity and Beyond
