@@ -9,4 +9,4 @@
 
 > To Infinity and Beyond
 
-xy(at)🚀.kz
+mailoji: xy(at)🚀.kz
