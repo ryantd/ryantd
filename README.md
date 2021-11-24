@@ -4,8 +4,6 @@
 [![ghpvc](https://komarev.com/ghpvc/?username=ryantd)](https://komarev.com/ghpvc/?username=ryantd)
 [![email](https://img.shields.io/badge/mail-xy%20(at)%20%F0%9F%9A%80.kz-orange)]()
 
-- 🔭 Working on DL/ML frameworks and MLSys 
+Machine Learning Engineer at Qihoo 360 working on DL/ML frameworks and MLSys 
 
-> Made on Earth by humans
-
-> To Infinity and Beyond
+Project author of DGL Operator
