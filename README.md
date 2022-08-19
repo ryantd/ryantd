@@ -4,4 +4,4 @@
 [![ghpvc](https://komarev.com/ghpvc/?username=ryantd)](https://komarev.com/ghpvc/?username=ryantd)
 [![email](https://img.shields.io/badge/mail-xy%20(at)%20%F0%9F%9A%80.kz-orange)]()
 
-Senior Machine Learning Engineer at [Qihoo 360](https://github.com/Qihoo360) working on DL/ML frameworks and MLSys 
+Senior Machine Learning Engineer working on DL/ML frameworks and MLSys 
